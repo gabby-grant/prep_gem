@@ -5,4 +5,3 @@ I need to write a code that takes the input files that are .tsv and parses out g
 
 - These are the headers `gene_id gene_name gene_type unstranded stranded_first stranded_second tpm_unstranded fpkm_unstranded fpkm_uq_unstranded` 
 
-https://pria.praxislxp.com/views/history/67c7bbdab2bf755b034dcbac
