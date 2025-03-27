@@ -35,4 +35,6 @@ This code is specific to certain filters available from the GDC portal
 	- Default is `stranded_second`
 	- Other options:  `unstranded` ,     `stranded_first  `,  `tpm_unstranded`,  `fpkm_unstranded`,` fpkm_uq_unstranded`
 - `-e`:  filter by file extension
+## Output
+This script will create a TSV file with the gene name as rows and the sample ID as the column headers. It uses NA for missing values.
 
