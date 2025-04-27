@@ -1,5 +1,5 @@
 # Gene Expression Matrix Builder
-Python script that prepares GEM script for differential gene expression for transcriptome profiling.
+Python script that prepares a GEM from the GDC Portal for differential gene expression for transcriptome profiling.
 
 
 ## Description
